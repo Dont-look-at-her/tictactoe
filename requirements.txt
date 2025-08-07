@@ -1,3 +1,4 @@
-DISCORD_TOKEN=your_bot_token_here
+discord.py>=2.5.2
+
 
 
